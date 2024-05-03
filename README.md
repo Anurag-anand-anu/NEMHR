@@ -14,6 +14,19 @@ Welcome to the National Electronic Medical Health Record (NEMHR) repository! NEM
 
 - **Compliance**: NEMHR complies with all relevant healthcare regulations and standards, ensuring that patient data is handled ethically and securely.
 
-## ScreenShots
+## Screenshots
 
+### Home Page 
 ![Homepage Screenshot](img/homepage.png)
+
+### Admin Page 
+![Admin Page Screenshot](img/adminpage.png)
+
+### Hospital Page 
+![Hospital Page Screenshot](img/hospitalpage.png)
+
+### Doctor Page 
+![Doctor Page Screenshot](img/doctorpage.png)
+
+### Patient Page 
+![Patient Page Screenshot](img/patientpage.png)
